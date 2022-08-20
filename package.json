@@ -1,0 +1,29 @@
+{
+  "name": "marble",
+  "version": "1.0.0",
+  "description": "This Small DataBase in Your Application",
+  "main": "./src/index",
+  "bin": {
+    "marble": "./bin/marble.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hed10z/marble.git"
+  },
+  "author": "hedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hed10z/marble/issues"
+  },
+  "homepage": "https://github.com/Hed10z/marble#readme",
+  "dependencies": {
+    "ciql-json": "^1.9.6",
+    "dotenv": "^16.0.1"
+  }
+}
