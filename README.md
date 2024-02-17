@@ -1,7 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="./src/img/mewstore.png" width="200" alt="Laravel Logo"></a></p>
 
 <p align="center">
-  <a href="./src/img/sheildmew.svg"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+  <a href="./src/img/sheildmew.svg"><img src="./src/img/sheildmew.svg" alt="Build Status"></a>
 </p>
 
 ## About ( Mewstore )
